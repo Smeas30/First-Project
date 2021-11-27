@@ -15,10 +15,3 @@ while True:
     elif menu_select == "3":
         print('goodbye')
         break
-
-# if __name__ == "__main__":
-
-#     # if show_homepage.menu_select == "2":
-
-#     # if menu_select == "3":
-#     #     print('goodbye')
